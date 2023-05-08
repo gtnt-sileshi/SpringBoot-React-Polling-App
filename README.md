@@ -13,4 +13,4 @@
 . React Js and Tailwind Css for frontend\
 ⋅ MySQL as Database Service and JPA \
 ⋅ Best practices and folder structure \
-⋅ Fields validation and more \
+⋅ Fields validation and more
